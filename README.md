@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Dev-ops Tool**
 
-- 💬 Ask me about **Competitive programming**
+- 💬 Ask me about **Jenkins,Docker,Git,Ansible,Kubernetes**
 
 - 📫 How to reach me **rahulsinghkb56@gmail.com**
 

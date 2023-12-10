@@ -7,8 +7,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="400" height = "300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **Front End Technologies**
-- 🌱 Ask me about **Full Stack Technologies**
+- 🌱 I’m currently learning **Full Stack Technologies**
+- 🌱 Ask me about **Opensource**
 - 📫 How to reach me **rahulsinghkb56@gmail.com**
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-singh-takuli56&show_icons=true&locale=en&layout=compact" alt="rahul-singh-takuli56" /></p>
